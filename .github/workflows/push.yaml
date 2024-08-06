@@ -22,7 +22,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-  x
+
 - name: Set up Docker buildx
   uses: docker/setup-buildx-action@v3
 
